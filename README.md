@@ -1,14 +1,4 @@
-Here is how to create and add a `README.md` file to your project.
 
-### Step 1: Create the README file
-
-1.  Open your code editor (VS Code or Notepad).
-2.  Create a new file.
-3.  Copy and paste the content below into the file.
-
-**Content for `README.md`:**
-
-```markdown
 # Flipkart Product Review Sentiment Analysis
 
 This project is a Sentiment Analysis application built to classify customer reviews for the "YONEX MAVIS 350 Nylon Shuttle" product as **Positive** or **Negative**. The app is built using Python and Streamlit.

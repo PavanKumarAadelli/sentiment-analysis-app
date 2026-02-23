@@ -64,13 +64,3 @@ The model was trained using Logistic Regression on TF-IDF vectorized text data.
 
 4.  Save the file as **`README.md`** inside your `Sentiment_Project` folder.
 
----
-
-### Step 2: Upload the README to GitHub
-
-Now you need to update your GitHub repository with this new file. Open your Command Prompt in the project folder and run these commands:
-
-**1. Add the new file:**
-```bash
-git add README.md
-```

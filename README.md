@@ -63,7 +63,7 @@ The model was trained using Logistic Regression on TF-IDF vectorized text data.
 - **Results:** The model achieves high accuracy in distinguishing between positive and negative reviews based on text patterns.
 
 ## 🚀 Live Demo
-(You can add your Streamlit Cloud link here after deployment)
+(https://sentiment-analysis-app-spbce7kbt8t3uwqtsgniuq.streamlit.app/)
 
 ## 📝 Data Preprocessing Steps
 1. Removal of HTML tags and special characters.

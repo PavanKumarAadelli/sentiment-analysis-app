@@ -62,5 +62,4 @@ The model was trained using Logistic Regression on TF-IDF vectorized text data.
 4. Lemmatization to reduce words to their base form.
 ```
 
-4.  Save the file as **`README.md`** inside your `Sentiment_Project` folder.
 
